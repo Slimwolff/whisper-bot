@@ -1,0 +1,14 @@
+{
+  "name": "whisper_bot",
+  "version": "1.0.0",
+  "description": "A discord bot that whisper message to users of server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
